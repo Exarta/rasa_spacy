@@ -1,0 +1,8 @@
+semi_formal
+comfortable
+casual
+sports
+formal
+fashion
+smart
+leather

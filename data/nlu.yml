@@ -1,0 +1,451 @@
+version: "3.1"
+nlu:
+- intent: greet/prim
+  examples: |
+    - hey
+    - hello
+    - hi
+    - hello there
+    - good morning
+    - good evening
+    - moin
+    - hey there
+    - let's go
+    - hey dude
+    - goodmorning
+    - goodevening
+    - good afternoon
+
+- intent: greet/seco
+  examples: |
+    - how are you
+    - how are you feeling
+    - what is the weather today
+    - who are you
+    - why are you
+    - hello zeniva how are you doing today
+
+- intent: goodbye
+  examples: |
+    - cu
+    - good by
+    - cee you later
+    - good night
+    - bye
+    - goodbye
+    - have a nice day
+    - see you around
+    - bye bye
+    - see you later
+- intent: affirm
+  examples: |
+    - yes
+    - y
+    - indeed
+    - of course
+    - that sounds good
+    - correct
+    - sure
+    - definitely
+    - yep
+    - yup
+- intent: deny
+  examples: |
+    - no
+    - n
+    - not yet
+    - never
+    - I don't think so
+    - don't like that
+    - no way
+    - not really
+    - nope
+    - no thanks
+    - not interested
+    - nah
+
+- intent: mood_great
+  examples: |
+    - perfect
+    - great
+    - amazing
+    - feeling like a king
+    - wonderful
+    - I am feeling very good
+    - I am great
+    - I am amazing
+    - I am going to save the world
+    - super stoked
+    - extremely good
+    - so so perfect
+    - so good
+    - so perfect
+- intent: mood_unhappy
+  examples: |
+    - my day was horrible
+    - I am sad
+    - I don't feel very well
+    - I am disappointed
+    - super sad
+    - I'm so sad
+    - sad
+    - very sad
+    - unhappy
+    - not good
+    - not very good
+    - extremly sad
+    - so saad
+    - so sad
+
+- intent: store
+  examples: |
+    - i am looking for some shoes
+    - i wanna buy some shoes
+    - i wanna look at some shoes
+    - what do you have to offer
+
+- intent: search
+  examples: |
+    - i wanna see some [loafers](type)
+    - show me [boots](type)
+    - find me [loafers](type)
+    - can show me [boots](type)
+    - do you have [boots](type)
+    - find me [sneakers](type)
+    - show me some [sneakers](type)
+    - i am looking for a pair of [boots](type)
+    - show me [loafers](type)
+    - Can you display [sneakers](type) for me
+    - I'd like to see some [boots](type)
+    - Can you search for [loafers](type) for me
+    - I need a pair of [sneakers](type)
+    - Can you recommend some [boots](type)
+    - I'm in the market for [loafers](type)
+    - Show me options for [boots](type)
+    - Do you stock [sneakers](type)
+    - can you show me [brown](color) [sneakers](type) in size [five](size)
+    - I am looking for [black](color) [boots](type) in size [nine](size)
+    - Show me [white](color) [loafers](type) in size [six](size)
+    - I would like to see [blue](color) [sneakers](type)
+    - Can you find [green](color) [boots](type)
+    - Are there any [gray](color) [loafers](type) available
+    - I want [purple](color) [boots](type)
+    - can you show me [brown](color) [comfortable](tag) [sneakers](type)
+    - I am looking for [semi formal](tag) [black](color) [boots](type)
+    - Show me [white](color) [loafers](type) that [casual](tag)
+    - I would like to see [sports](tag) [sneakers](type) in [blue](color)
+    - Can you find [green](color) [boots](type) that are [formal](tag)
+    - Are there any [gray](color) [fashion](tag) [loafers](type)
+    - I want [smart](tag) [purple](color) [boots](type)
+    - i want to buy [loafers](type)
+    - i want to buy [boots](type)
+    - i want to buy [sneakers](type)
+    - show me [loafers](type)
+    - show me [boots](type)
+    - show me [sneakers](type)
+    - i want to see [loafers](type)
+    - i want to see [boots](type)
+    - i want to see [sneakers](type)
+    - i will go with [loafers](type)
+    - i will go with [boots](type)
+    - i will go with [sneakers](type)
+    - i need [loafers](type)
+    - please show me [sneakers](type)
+    - i am searching for [boots](type)
+    - can you show me [loafers](type)
+    - i am in the mood for some [loafers](type)
+    - what is the latest collection of [boots](type) you have
+    - i am looking for some sustainable [sneakers](type)
+    - i need new [boots](type) can you help
+    - i need [red](color) [loafers](type) under [100](price)
+    - show me [blue](color) [sneakers](type) less than [100](price)
+    - i want to see [formal](tag) [loafers](type) under [50](price) in [red](color)
+    - show me some [formal](tag) [loafers](type) less than [50](price) in [brown](color)
+    - i want to see [comfortable](tag) [boots](type) under [100](price) in [blue](color)
+    - i would like to see it in size [four](size)
+    - show me [loafers](type) in [black](color) under [250](price)
+    - size [five](size)
+    - show me in size [six](size)
+    - i want them in size [seven](size)
+    - I'm looking for a size [eight](size)
+    - Can you show me size [nine](size)
+    - Do you have any in size [ten](size)
+    - I need a pair in size [four](size)
+    - Can I see these in size [five](size)
+    - I'm interested in buying them in size [six](size)
+    - I am thinking of getting new shoes, they should be size [5](size)
+    - I prefer size [6](size) shoes
+    - show me in size [7](size)
+    - i want [six](size)
+    - i want it in [seven](size)
+    - show me in [six](size)
+    - i want to see in [nine](size)
+    - [ten](size)
+    - i would like to see it in [red](color) color
+    - [blue](color)
+    - show me in [green](color) color
+    - i want them in [yellow](color) color
+    - show me in [black](color)
+    - i want them in [black](color) color
+    - I'm looking for it in [white](color)
+    - Can you show me [pink](color) ones?
+    - Do you have any in [purple](color) color?
+    - I need a pair in [ornage](color)
+    - Do you have any in [orange](color) color?
+    - Can I see these in [brown](color) color?
+    - I'm interested in buying them in [gray](color).
+    - I'd like to purchase in [violet](color) color.
+    - Show me some styles in [cyan](color).
+    - I'm in the market for some [magenta](color) ones.
+    - Could you recommend some pages in [lime](color)?
+    - I want to check out some [teal](color) colored pages.
+    - i want it in [red](color) color
+    - show me pages that are [blue](color)
+    - i prefer [black](color) what do you have
+    - i am interested in the color [brown](color)
+    - i'm interested in the color [brown](color)
+    - i am interested in [brown](color) color
+    - change the color to [black](color)
+    - please show me this in [red](color)
+    - update the color to [blue](color)
+    - I am looking for products above [200](price)
+    - Find something below [500](price)
+    - Can you show me pages below [100](price)
+    - I want to see options above [100](price)
+    - Show me products below [300](price)
+    - I am interested in pages above [750](price)
+    - i am searching for [smart](tag) [boots](page)
+    - show me something in [semi_formal](page)
+    - i want to see items that are [formal](tag)
+    - i want to buy [leather](tag) [boots](page)
+    - i want to see [fashion](tag) [sneakers](page)
+    - show me [sports](tag) shoes
+    - can i see some [formal](tag) shoes
+    - suggest me some [smart] shoes
+    - can you recommend [leather](tag) shoes
+    - i need to find a pair of [casual](tag) shoes for standing all day. Any suggestions?
+    - can you help me find [fashion](tag) hiking boots for outdoor adventures?
+
+- intent: navigation
+  examples: |
+    - i want to go to [cart](page) page
+    - show me [cart](page)
+    - go to the [cart](page) page
+    - i want to see my [cart](page)
+    - take me to [cart](page)
+    - please take me to [cart](page) page
+    - can you show me [cart](page)
+    - i want to go [cart](page) page
+    - i wanna see [cart](page)
+    - open my [explore](page)
+    - go to [explore](page) page
+    - open [explore](page)
+    - open the [explore](page) page
+    - open my [explore](page)
+    - take me to the [home](page)
+    - take me back to the [homepage](page)
+    - go [back](page)
+    - can i go [back](page)
+    - please go [back](page)
+    - can you go [back](page)
+    - take me [back](page)
+    - return [back](page)
+    - i wanna go [back](page)
+    - i want to go [back](page)
+    - go [back](page) to the previous item
+    - go [back](page) for a minute
+    - go [back](page) please
+    - go [back](page)
+    - open [cart](page)
+    - take me to [checkout](page)
+    - i wanna go to [checkout](page) page
+    - go to [checkout](page)
+    - open [checkout](page) page
+    - proceed to [checkout](page)
+    - [checkout](page)
+    - navigate to [checkout](page)
+    - are you able to show me [checkout](page)
+    - navigate to [homepage](page)
+    - can you display the [checkout](page) options?
+    - can you help me to open [cart](page)
+
+- intent: open_item
+  examples: |
+    - open [Classy Kick](product)
+    - show me [Chunky](product)
+    - can i see [Moda Move](product)
+    - please show me [Ravens](product)
+    - Can you display [Elegance Ease](product) for me
+    - I'd like to see [Mules](product)
+    - Reveal [Tassels](product), please
+    - Bring up [Daring Dresser](product)
+    - Could you present [Warriors](product)
+    - What's [Cowboys](product) all about
+    - Let's take a look at [Flexi Step](product)
+    - I want to explore [Moon Joggers](product)
+    - What do you have in [Nebula](product)
+    - Spotlight on [Starlight](product), please
+    - Give me a peek at [Street Swag](product)
+    - I'd like to browse through [Hardhat](product)
+    - Tell me more about [Aero Stride](product)
+    - How about showing [Bounce Boost](product)
+    - Got anything special in [Comets](product)
+    - Bring [High Fly](product) up on my screen
+    - open [Fashion Forward](product)
+    - show me [Glossy Guardian](product)
+    - can i see [Classic Oxford](product)
+    - please show me [Dapper](product)
+    - i'd like to see [Sleeks](product)
+    - bring up [Easy Going](product)
+    - what is [Penny](product) all about
+    - let us take a look at [Moccasins](product)
+    - want to explore [Yachts](product)
+    - tell me more about [Durable Dash](product)
+
+- intent: remove_filter
+  examples: |
+    - remove the filters [price](filter)
+    - remove filters [price](filter)
+    - i don't want any filters [price](filter)
+    - i dont want filters [price](filter)
+    - reset filters
+    - remove all filter
+    - reset all filters
+    - please reset filters [price](filter)
+    - get rid of the filters
+    - Clear all filters
+    - Reset all filters
+    - Remove any applied filters [price](filter)
+    - Get rid of all filters
+    - Delete all filters
+    - Take off all filters
+    - Eliminate all filters 
+    - Undo all filters
+    - Revert all filters
+    - Remove every filter
+    - Cancel all filters [color](filter)
+    - Erase all filters
+    - Disable all filters
+    - Remove filters [color](filter)
+    - Remove applied filter [color](filter)
+    - Remove applied filter [color](filter)
+    - Clear out all filter choices
+    - Remove [tag](filter)
+    - Remove all filter selections
+    - Remove filtering settings [tag](filter)
+    - Clear all filters
+    - Reset all applied filters
+    - Remove all active filter
+    - Delete all filter
+    - Take off all active filters
+    - Eliminate all applied filters
+    - Undo all applied filters
+    - Revert all applied filters
+    - remove all filters
+    - remove [color](filter)
+    - remove [tag](filter)
+    - remove [price](filter)
+    - remove [color](filter) search
+    - remove [tag](filter) search
+    - remove [price](filter) search
+
+- intent: buy
+  examples: |
+    - i want to buy these
+    - i want to purchase these
+    - add this to the cart
+    - checkout
+    - open my cart
+    - add this to my cart
+    - toss this in my cart
+    - can you put this in my basket
+    - put this in my cart please
+    - add this to the cart
+    - place this item in the shopping cart
+    - add this item to my shopping cart
+    - add [Classy_Kick](product) to the cart
+    - add [Elegance_Ease](product) in [black](color) to my cart
+    - add [Yachts](product) to my cart in [black](color)
+    - add [Moda_Move](product) in [black](color)
+    - add [Ravens](product) in [black](color) to my cart
+    - add [Daring_Dresser](product) to my cart in [black](color)
+    - add [Cowboys](product) in [black](color)
+    - add [Fashion_Forward](product) in [black](color) to my cart
+    - add [Glossy_Guardian](product) to my cart in [black](color)
+    - add [Classic_Oxford](product) to the cart
+    - add [Mules](product) to my cart
+    - add [Tassels](product) to my cart
+    - add [Chunky](product)
+
+- intent: remove_cart
+  examples: |
+    - please remove the [first](index) item from my cart
+    - delete the [second](index) item
+    - get rid of the [third](index) item from my cart
+    - remove the [1st](index) item from my cart
+    - Discard [1st](index) item off my cart
+    - Remove [2nd](index) item from my shopping cart
+    - Delete [3rd](index) item from my cart
+    - Eliminate [4th](index) item from my cart
+    - Exclude [5th](index) item from my cart
+    - Get rid of [6th](index) item from my cart
+    - Clear [7th](index) item from my cart
+    - Withdraw [8th](index) item from my cart
+    - Erase [9th](index) item from my cart
+    - Remove [10th](index) item from my online cart
+    - Discard [1st](index) item from my cart
+    - Cancel [2nd](index) item from my cart 
+    - Omit [3rd](index) item from my cart
+    - Take [4th](index) item out of the cart
+    - Remove [5th](index) shoe out of my shopping cart
+    - Remove all items from my cart, please.
+    - I'd like to clear my cart and start over.
+    - Empty my shopping cart, please.
+    - Remove everything from my online cart.
+    - Remove everything from my cart.
+    - Can you help me delete all items from my cart?
+    - I want to clear my shopping cart completely.
+    - I want to clear my cart completely.
+    - Please remove all products from my cart.
+    - Clear my cart, please.
+    - Clear my cart
+    - Can you help me remove everything from my cart?
+    - clear the cart
+    - empty the entire cart
+    - clear the entire cart
+    - remove everything
+    - remove all items
+    - remove all shoes
+    - remove all products
+
+- regex: price
+  examples: |
+    - \d{1,3}
+
+- regex: size
+  examples: |
+    - \b([1-9]|[1-9][0-9])\b
+
+- lookup: color
+  examples: |
+    - filepath: color.txt
+
+- lookup: page
+  examples: |
+    - filepath: page.txt
+
+- lookup: tag
+  examples: |
+    - filepath: tag.txt
+
+- lookup: product
+  examples: |
+    - filepath: product.txt
+
+- lookup: tag
+  examples: |
+    - filepath: tag.txt
+
+- lookup: index
+  examples: |
+    - filepath: index.txt

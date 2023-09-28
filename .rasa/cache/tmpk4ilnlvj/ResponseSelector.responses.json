@@ -1,0 +1,34 @@
+{
+  "utter_greet/prim": [
+    {
+      "text": "Hey there, fashion-forward friend! Looking for some stylish shoes today?",
+      "custom": {
+        "action_name": "no-action",
+        "video_link": "/utter_greet.mp4"
+      }
+    },
+    {
+      "text": "Hello, trendsetter! In the mood for some fabulous footwear today?",
+      "custom": {
+        "action_name": "no-action",
+        "video_link": "/greet_prim.mp4"
+      }
+    }
+  ],
+  "utter_greet/seco": [
+    {
+      "text": "I am doing great, thank you. I hope you are having an equally fantastic day.",
+      "custom": {
+        "action_name": "no-action",
+        "video_link": "/howru-1.mp4"
+      }
+    },
+    {
+      "text": "I'm doing wonderfully, thanks for asking. I hope your day is going just as splendidly",
+      "custom": {
+        "action_name": "no-action",
+        "video_link": "/greet_seco.mp4"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1341 @@
+[
+  
+  [
+    "hey",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "hello",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "hi",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "hello there",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "good morning",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "good evening",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "moin",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "hey there",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "let's go",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "hey dude",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "goodmorning",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "goodevening",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "good afternoon",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "cu",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "good by",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "cee you later",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "good night",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "bye",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "goodbye",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "have a nice day",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "see you around",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "bye bye",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "see you later",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "yes",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "y",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "indeed",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "of course",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "that sounds good",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "correct",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "no",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "n",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "never",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "I don't think so",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "don't like that",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "no way",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "not really",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "perfect",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "great",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "amazing",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "feeling like a king",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "wonderful",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "I am feeling very good",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "I am great",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "I am amazing",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "I am going to save the world",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "super stoked",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "extremely good",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "so so perfect",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "so good",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "so perfect",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "my day was horrible",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "I am sad",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "I don't feel very well",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "I am disappointed",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "super sad",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "I'm so sad",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "sad",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "very sad",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "unhappy",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "not good",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "not very good",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "extremly sad",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "so saad",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "so sad",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "are you a bot?",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "are you a human?",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "am I talking to a bot?",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "am I talking to a human?",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "show me boots",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "show me sneakers",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "i want to see boots",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "i want to see sneakers",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "show me shoes",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "for a weddding",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "for a friends wedding",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "its for my friends wedding",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "its for a wedding",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "for a wedding",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "i would like to see mocassins",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "mocassins",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "something like mocassins",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "i want some mocassins",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "I'm looking for mocassins",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "Can you show me some mocassins",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "Do you have any mocassins in stock",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "I need a pair of mocassins",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "Can I see some mocassins",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "I'm interested in buying mocassins",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "I'd like to purchase some mocassins",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "Show me some styles of mocassins",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "I'm in the market for some mocassins",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "Could you recommend some mocassins",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "I want to check out some mocassins",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "I am thinking of getting new mocassins",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "I prefer something like mocassins",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "i would like to see it in size 8",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "size 8",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "show me in size 8",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "i want them in size 8",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "I'm looking for a size 8",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "Can you show me size 8",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "Do you have any in size 8",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "I need a pair in size 8",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "Can I see these in size 8",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "I'm interested in buying them in size 8",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "I'd like to purchase a size 8",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "Show me some styles in size 8",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "I'm in the market for some size 8 shoes",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "Could you recommend some shoes in size 8",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "I want to check out some shoes in size 8",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "I am thinking of getting new shoes, they should be size 8",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "I prefer size 8 shoes",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "i would like to see it in black color",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "black",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "show me in black color",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "i want them in black color",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "show me in black",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "I'm looking for it in black.",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "Can you show me black ones?",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "Do you have any in black color?",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "I need a pair in black.",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "Can I see these in black color?",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "I'm interested in buying them in black.",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "I'd like to purchase in black color.",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "Show me some styles in black.",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "I'm in the market for some black ones.",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "Could you recommend some items in black?",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "I want to check out some black colored items.",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "what is the price",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "can you tell me the price",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "price of these",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "how much do they cost",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "i want to buy these",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "i want to purchase these",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "add this to the cart",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "checkout",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "i would like to see it in red color",
+    {
+      "entities": [
+        [
+          26,
+          29,
+          "color"
+        ]
+      ]
+    }
+  ],
+  [
+    "blue",
+    {
+      "entities": [
+        [
+          0,
+          4,
+          "color"
+        ]
+      ]
+    }
+  ],
+  [
+    "show me in green color",
+    {
+      "entities": [
+        [
+          11,
+          16,
+          "color"
+        ]
+      ]
+    }
+  ],
+  [
+    "i want them in yellow color",
+    {
+      "entities": [
+        [
+          15,
+          21,
+          "color"
+        ]
+      ]
+    }
+  ],
+  [
+    "show me in black",
+    {
+      "entities": [
+        [
+          11,
+          16,
+          "color"
+        ]
+      ]
+    }
+  ],
+  [
+    "i want them in black color",
+    {
+      "entities": [
+        [
+          15,
+          20,
+          "color"
+        ]
+      ]
+    }
+  ],
+  [
+    "I'm looking for it in white",
+    {
+      "entities": [
+        [
+          22,
+          27,
+          "color"
+        ]
+      ]
+    }
+  ],
+  [
+    "Can you show me pink ones?",
+    {
+      "entities": [
+        [
+          16,
+          20,
+          "color"
+        ]
+      ]
+    }
+  ],
+  [
+    "Do you have any in purple color?",
+    {
+      "entities": [
+        [
+          19,
+          25,
+          "color"
+        ]
+      ]
+    }
+  ],
+  [
+    "I need a pair in ornage",
+    {
+      "entities": [
+        [
+          17,
+          23,
+          "color"
+        ]
+      ]
+    }
+  ],
+  [
+    "Do you have any in orange color?",
+    {
+      "entities": [
+        [
+          19,
+          25,
+          "color"
+        ]
+      ]
+    }
+  ],
+  [
+    "Can I see these in brown color?",
+    {
+      "entities": [
+        [
+          19,
+          24,
+          "color"
+        ]
+      ]
+    }
+  ],
+  [
+    "I'm interested in buying them in gray.",
+    {
+      "entities": [
+        [
+          33,
+          37,
+          "color"
+        ]
+      ]
+    }
+  ],
+  [
+    "I'd like to purchase in violet color.",
+    {
+      "entities": [
+        [
+          24,
+          30,
+          "color"
+        ]
+      ]
+    }
+  ],
+  [
+    "Show me some styles in cyan.",
+    {
+      "entities": [
+        [
+          23,
+          27,
+          "color"
+        ]
+      ]
+    }
+  ],
+  [
+    "I'm in the market for some magenta ones.",
+    {
+      "entities": [
+        [
+          27,
+          34,
+          "color"
+        ]
+      ]
+    }
+  ],
+  [
+    "Could you recommend some items in lime?",
+    {
+      "entities": [
+        [
+          34,
+          38,
+          "color"
+        ]
+      ]
+    }
+  ],
+  [
+    "I want to check out some teal colored items.",
+    {
+      "entities": [
+        [
+          25,
+          29,
+          "color"
+        ]
+      ]
+    }
+  ],
+  [
+    "i would like to see it boots in red color with size four",
+    {
+      "entities": [
+        [
+          23,
+          28,
+          "item"
+        ],
+        [
+          32,
+          35,
+          "color"
+        ],
+        [
+          52,
+          56,
+          "size"
+        ]
+      ]
+    }
+  ],
+  [
+    "blue loafers in size five",
+    {
+      "entities": [
+        [
+          0,
+          4,
+          "color"
+        ],
+        [
+          5,
+          12,
+          "item"
+        ],
+        [
+          21,
+          25,
+          "size"
+        ]
+      ]
+    }
+  ],
+  [
+    "show me sneakers in green color with size six",
+    {
+      "entities": [
+        [
+          8,
+          16,
+          "item"
+        ],
+        [
+          20,
+          25,
+          "color"
+        ],
+        [
+          42,
+          45,
+          "size"
+        ]
+      ]
+    }
+  ],
+  [
+    "i want boots in yellow color in seven",
+    {
+      "entities": [
+        [
+          7,
+          12,
+          "item"
+        ],
+        [
+          16,
+          22,
+          "color"
+        ],
+        [
+          32,
+          37,
+          "size"
+        ]
+      ]
+    }
+  ],
+  [
+    "show me loafers in black with size eight",
+    {
+      "entities": [
+        [
+          8,
+          15,
+          "item"
+        ],
+        [
+          19,
+          24,
+          "color"
+        ],
+        [
+          35,
+          40,
+          "size"
+        ]
+      ]
+    }
+  ],
+  [
+    "i want sneakers in black color in nine",
+    {
+      "entities": [
+        [
+          7,
+          15,
+          "item"
+        ],
+        [
+          19,
+          24,
+          "color"
+        ],
+        [
+          34,
+          38,
+          "size"
+        ]
+      ]
+    }
+  ],
+  [
+    "I'm looking for it in white",
+    {
+      "entities": [
+        [
+          22,
+          27,
+          "color"
+        ]
+      ]
+    }
+  ],
+  [
+    "Can you show me pink boots with size ten",
+    {
+      "entities": [
+        [
+          16,
+          20,
+          "color"
+        ],
+        [
+          21,
+          26,
+          "item"
+        ],
+        [
+          37,
+          40,
+          "size"
+        ]
+      ]
+    }
+  ],
+  [
+    "Do you have any in purple sneakers in size six",
+    {
+      "entities": [
+        [
+          19,
+          25,
+          "color"
+        ],
+        [
+          26,
+          34,
+          "item"
+        ],
+        [
+          43,
+          46,
+          "size"
+        ]
+      ]
+    }
+  ],
+  [
+    "I need a pair of ornage loafers with size five",
+    {
+      "entities": [
+        [
+          17,
+          23,
+          "color"
+        ],
+        [
+          24,
+          31,
+          "item"
+        ],
+        [
+          42,
+          46,
+          "size"
+        ]
+      ]
+    }
+  ],
+  [
+    "Do you have any in orange color?",
+    {
+      "entities": [
+        [
+          19,
+          25,
+          "color"
+        ]
+      ]
+    }
+  ],
+  [
+    "Can I see these in brown color?",
+    {
+      "entities": [
+        [
+          19,
+          24,
+          "color"
+        ]
+      ]
+    }
+  ],
+  [
+    "I'm interested in buying them in gray.",
+    {
+      "entities": [
+        [
+          33,
+          37,
+          "color"
+        ]
+      ]
+    }
+  ],
+  [
+    "I'd like to purchase in violet color.",
+    {
+      "entities": [
+        [
+          24,
+          30,
+          "color"
+        ]
+      ]
+    }
+  ],
+  [
+    "Show me some styles in cyan.",
+    {
+      "entities": [
+        [
+          23,
+          27,
+          "color"
+        ]
+      ]
+    }
+  ],
+  [
+    "I'm in the market for some magenta ones.",
+    {
+      "entities": [
+        [
+          27,
+          34,
+          "color"
+        ]
+      ]
+    }
+  ],
+  [
+    "Could you recommend some items in lime?",
+    {
+      "entities": [
+        [
+          34,
+          38,
+          "color"
+        ]
+      ]
+    }
+  ],
+  [
+    "I want to check out some teal colored items.",
+    {
+      "entities": [
+        [
+          25,
+          29,
+          "color"
+        ]
+      ]
+    }
+  ]
+]

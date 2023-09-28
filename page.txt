@@ -1,0 +1,6 @@
+cart
+explore
+home
+homepage
+checkout
+back

@@ -1,0 +1,17 @@
+version: "3.1"
+
+rules:
+- rule: Greetings
+  steps:
+  - intent: greet
+  - action: utter_greet
+  
+- rule: Say goodbye anytime the user says goodbye
+  steps:
+  - intent: goodbye
+  - action: utter_goodbye
+
+- rule: Implementation of the Two-Stage-Fallback
+  steps:
+  - intent: nlu_fallback
+  - action: action_default_fallback

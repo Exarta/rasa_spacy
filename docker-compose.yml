@@ -1,0 +1,17 @@
+version: '3.8'
+services:
+  rasa:
+    build: 
+      context: . 
+      dockerfile: Dockerfile
+    ports:
+      - 5005:5005
+    volumes:
+      - ./:/app
+    command: rasa run --enable-api
+  app:
+    build: 
+      context: .
+      dockerfile: dockerfile-actionserver
+    expose: 
+      - 5055 
